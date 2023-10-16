@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M-Yankov
-- 👀 I’m interested in web development, aslo I'm a big fan of everthing that is open source,
+- 👀 I’m interested in web development, aslo I'm a big fan of everything that is open source,
   - I love markdown programming ... ops styling 😅
 - 🌱 I’m currently playing games, making videos (goPRO) using Davinci Reoslve for edit
 - 💞️ I’m looking to hack something that is not working, (_because all of websites across internet have a lot of errors_)
