@@ -7,7 +7,7 @@
   - https://www.youtube.com/@m.yankov/about
   - https://www.linkedin.com/in/mihail-yankov-0a9768a0/
   - Gmail: mihail.yankov.1337
-  - 📃 [me-info](https://github.com/M-Yankov/m-yankov.github.io) 
+  - 📃 [me-info](https://m-yankov.github.io/me) 
 
 <!---
 M-Yankov/M-Yankov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
